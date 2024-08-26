@@ -1,2 +1,2 @@
-# livros-programa-o
+# livros-programacao
 Lista de livros para programadores.
